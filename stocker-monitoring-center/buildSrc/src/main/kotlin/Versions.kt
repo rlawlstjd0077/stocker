@@ -1,5 +1,5 @@
 object Versions {
-    const val kotlinVersion = "1.5.30"
+    const val kotlinVersion = "1.6.21"
     /**
      * spring security core 버전이 올라가면 {@link org.springframework.security.core.context.SecurityContextImpl}
      * 부분을 deserialize 문제가 생기기 때문에, session serialize 먼저 jackson 으로 변경하고 진행해야 함
