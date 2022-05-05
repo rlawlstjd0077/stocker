@@ -33,9 +33,4 @@ out/
 ### VS Code ###
 .vscode/
 
-### generated ###
-hackle-dashboard-interfaces/src/main/resources/static/generated/
-
-### http ###
-hackle-dashboard-interfaces/http
 .http
